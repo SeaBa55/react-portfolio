@@ -1,0 +1,29 @@
+/* Footer links default color - white*/
+.foot-link {
+    color: inherit;
+}
+  
+/* Footer links color on hover - pale yellow */
+.foot-link:hover {
+    color: #F1FA8C;
+}
+  
+/* Sticky footer properties */
+.footer {
+    background-color: brown;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    /* Set the fixed height of the footer here */
+    height: 56px;
+
+    /* Vertically center the text there */
+    line-height: 55px; 
+
+    /* Text color not active since it is muted */
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}

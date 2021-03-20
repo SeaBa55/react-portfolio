@@ -3,7 +3,7 @@ import React from "react";
 function About() {
 
     return (
-        <>
+        // <>
            <div class="about-me-text">
                 <p>Originally from Bogota, Colombia, my family and I emigrated to the states in search of peace away from the narco-state that had become our home at the time. The year was 1997, and we were off to the land of opportunity where we found a pleasant place to call home in Montgomery County, Maryland.</p>
                 <p>Over the next 20 years I spent living in Montgomery County, I grew passionate for music production, engineering and mechanical design, as these fields offered a vessel for my creativity to flourish. Due to a growing interest in design and engineering I decided to study mechanical engineering at the University of Maryland. It was in this institution where I was exposed to mechatronics which is where mechanical, electrical, and software/computer engineering overlap.</p>
@@ -11,7 +11,7 @@ function About() {
                 <p>While there were so many other projects, I inevitably fell in love with the software side of mechatronics. I really like how quickly, effortlessly software enables the deployment of great project ideas. While working in my second year at Ford Motor Company, I enrolled in an introductory course on microprocessors at the University of Michigan. Through this class I was exposed to the very hardware that makes software possible, and the programing language that makes it all possible behind the scenes, assembly. Working with assembly language opened my mind to a new-found understanding for how software manages hard-coded commands stored in memory, to make the magic of computation happen. From there it all clicked; I spent a decade “close to the metal” and now I am fully prepared to take on web and software development. Join me, as I attempt to speed-run to the top ranks of tech!</p>
                 <p>Welcome to my first responsive site! I hope to connect, collaborate with you, and hear about your story.</p>
             </div> 
-        </>
+        // </>
     );
 }
   
