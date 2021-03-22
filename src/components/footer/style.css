@@ -1,3 +1,10 @@
+/* Footer content spacing: set to match navbar positioning */
+.footer-container {
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
 /* Footer links default color - white*/
 .foot-link {
     color: inherit;
@@ -10,7 +17,7 @@
   
 /* Sticky footer properties */
 .footer {
-    background-color: brown;
+    /* background-color: brown; */
     position: absolute;
     left: 0;
     bottom: 0;

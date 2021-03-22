@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      <div className="container">
+      <div className="page-content">
         {/* <div className="content-wrap"> */}
           <Router history={history}>
             <Switch>
