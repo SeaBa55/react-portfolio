@@ -1,10 +1,5 @@
 import React from "react";
 import * as ReactBootstrap from 'react-bootstrap';
-// import './style.css';
-// import Row from 'react-bootstrap/Row';
-// import Container from 'react-bootstrap/Container';
-// import Form from 'react-bootstrap/Form';
-// import Button from 'react-bootstrap/Button';
 
 function Portfolio() {
 
@@ -18,7 +13,6 @@ function Portfolio() {
                     We'll never share your email with anyone ELSE.
                     </ReactBootstrap.Form.Text>
                 </ReactBootstrap.Form.Group>
-
                 <ReactBootstrap.Form.Group controlId="formBasicPassword">
                     <ReactBootstrap.Form.Label>Password</ReactBootstrap.Form.Label>
                     <ReactBootstrap.Form.Control type="password" placeholder="Password" />

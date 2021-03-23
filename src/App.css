@@ -22,7 +22,9 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+
+  /* Page content text color */
+  color: #333;
   min-height: 100%;
   min-width: 100%;
   padding: 0;
@@ -33,6 +35,14 @@
   
   /* Height at which footer collapses; 56px + 30px space between card and footer*/
   margin-bottom: 54.55px;
+}
+
+/* Content cards background gradient */
+#grad1 {
+  /* For browsers that do not support gradients */
+  background-color: lightgrey;
+  /* Standard syntax (must be last) */
+  background-image: linear-gradient(white, lightgrey); 
 }
 
 /* google fonts "bangers" for nav bar elements */
