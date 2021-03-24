@@ -15,7 +15,6 @@
   background-attachment: fixed;
 }
 
-
 .page-content {
   display: flex;
   flex-direction: column;
@@ -34,7 +33,7 @@
   line-height: 150%;
   
   /* Height at which footer collapses; 56px + 30px space between card and footer*/
-  margin-bottom: 54.55px;
+  margin-bottom: 86px;
 }
 
 /* Content cards background gradient */
