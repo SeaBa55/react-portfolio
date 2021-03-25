@@ -24,14 +24,14 @@ function Portfolio() {
                                 <Card className="card shadow p-2 mt-4">
                                     <Card.Body className="portfolio-card-body">
                                         <Card.Title className="portfolio-card-title">
-                                            <h6>Avalon - Game Web App</h6>
+                                            <h6>Ashen Void - Game Web App</h6>
                                         </Card.Title>
                                         <Row>
-                                            <a href="https://avalon-web-app.herokuapp.com/"><img className="img-fluid shadow" src="images/Avalon.gif" alt="WeatherDine" /></a>
+                                            <a href="https://ashen-void.herokuapp.com/"><img className="img-fluid shadow" src="images/ashen-void.gif" alt="ashen-void" /></a>
                                         </Row>
                                         <Row className="mt-2 justify-content-center">
                                             {/* <!-- Git Hub Profile Link --> */}
-                                            <a className="portlolio-link" href="https://github.com/AlecWGreene/MSUProject2Team4"><i className="fab fa-github fa-1x"></i></a>
+                                            <a className="portlolio-link" href="https://github.com/AlecWGreene/MSU-Project3-Four-Horsemen"><i className="fab fa-github fa-1x"></i></a>
                                         </Row>
                                     </Card.Body>
                                 </Card>
@@ -40,15 +40,15 @@ function Portfolio() {
                             <Col md={4}>
                                 <Card className="card shadow p-2 mt-4">
                                     <Card.Body className="portfolio-card-body">
-                                        <Card.Title className="portfolio-card-title">
-                                            <h6>WeatherDine</h6>
+                                    <Card.Title className="portfolio-card-title">
+                                            <h6>Avalon - Game Web App</h6>
                                         </Card.Title>
                                         <Row>
-                                            <a href="https://chidinmanze.github.io/project1/"><img className="img-fluid shadow" src="images/WeatherDine.gif" alt="WeatherDine" /></a>
+                                            <a href="https://avalon-web-app.herokuapp.com/"><img className="img-fluid shadow" src="images/Avalon.gif" alt="WeatherDine" /></a>
                                         </Row>
                                         <Row className="mt-2 justify-content-center">
                                             {/* <!-- Git Hub Profile Link --> */}
-                                            <a className="portlolio-link" href="https://github.com/chidinmanze/project1"><i className="fab fa-github fa-1x"></i></a>
+                                            <a className="portlolio-link" href="https://github.com/AlecWGreene/MSUProject2Team4"><i className="fab fa-github fa-1x"></i></a>
                                         </Row>
                                     </Card.Body>
                                 </Card>
