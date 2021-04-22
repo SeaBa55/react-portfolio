@@ -34,3 +34,8 @@
     text-align: center;
     font-size: 12px;
 }
+
+/* Contact popover arrow offset */
+.arrow::after {
+    left: -4px;
+}

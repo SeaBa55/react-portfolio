@@ -4,4 +4,17 @@
 
 .form-group-1 {
     margin-top: 16px;
-} 
+}
+
+.errorMsg {
+    display: inline-block;
+    font-size: 12px;
+    padding-left: 10px;
+    color: red;
+    font-style: italic;
+}
+
+.thankYou{
+    font-family: 'Lobster', cursive;
+    color:#cc624c;
+}
