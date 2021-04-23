@@ -1,5 +1,5 @@
 import React from "react";
-import { Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import history from "./utils/history";
 import Portfolio from "./pages/portfolio/index";
 import About from "./pages/about/index";
@@ -22,7 +22,7 @@ function App() {
     <div className="App">
     <NavBar/>
     <div className="page-content">
-      <Router history={history}>
+      <Router basename={process.env.PUBLIC_URL} history={history}>
         <Switch>
           <Route path="/" exact>
             <Portfolio />

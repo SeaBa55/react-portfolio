@@ -26,8 +26,13 @@
 }
 
 .card-img.rounded-circle {
-    height: 148px;
-    width: 141.27px;
+    /* height: 148px;
+    width: 141.27px; */
+
+    height: 301px;
+    width: 295px;
+    object-fit: cover;
+
     /* border: white;
     border-width: 5px; */
 }
