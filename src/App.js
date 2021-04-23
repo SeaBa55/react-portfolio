@@ -1,6 +1,6 @@
 import React from "react";
-import { Router, Route, Switch } from "react-router-dom";
-import history from "./utils/history";
+import { Route, Switch } from "react-router-dom";
+// import history from "./utils/history";
 import Portfolio from "./pages/portfolio/index";
 import About from "./pages/about/index";
 import Contact from "./pages/contact/index";
@@ -11,25 +11,25 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-    <NavBar/>
-    <div className="page-content">
-      <Router history={history}>
-        <Switch>
-          <Route path="/" exact>
-            <Portfolio />
-          </Route>
-          <Route path="/about" exact>
-            <About />
-          </Route>
-          <Route path="/contact" exact>
-            <Contact />
-          </Route>
-        </Switch>
-      </Router>
-    </div>
-    <Footer/>
-    </div>
+    // <Router basename={process.env.PUBLIC_URL} history={history}>
+      <div className="App">
+        <NavBar/>
+        <div className="page-content">
+            <Switch>
+              <Route path="/" exact>
+                <Portfolio />
+              </Route>
+              <Route path="/about">
+                <About />
+              </Route>
+              <Route path="/contact">
+                <Contact />
+              </Route>
+            </Switch>
+        </div>
+        <Footer/>
+      </div>
+    // </Router>
   );
 }
 
