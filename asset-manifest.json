@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Breact-portfolio%7D/static/css/main.ddb63a1e.chunk.css",
+    "main.js": "/%7Breact-portfolio%7D/static/js/main.1e60f09e.chunk.js",
+    "main.js.map": "/%7Breact-portfolio%7D/static/js/main.1e60f09e.chunk.js.map",
+    "runtime-main.js": "/%7Breact-portfolio%7D/static/js/runtime-main.7cc14725.js",
+    "runtime-main.js.map": "/%7Breact-portfolio%7D/static/js/runtime-main.7cc14725.js.map",
+    "static/css/2.31ff0196.chunk.css": "/%7Breact-portfolio%7D/static/css/2.31ff0196.chunk.css",
+    "static/js/2.d784fcf2.chunk.js": "/%7Breact-portfolio%7D/static/js/2.d784fcf2.chunk.js",
+    "static/js/2.d784fcf2.chunk.js.map": "/%7Breact-portfolio%7D/static/js/2.d784fcf2.chunk.js.map",
+    "static/js/3.c4369dc8.chunk.js": "/%7Breact-portfolio%7D/static/js/3.c4369dc8.chunk.js",
+    "static/js/3.c4369dc8.chunk.js.map": "/%7Breact-portfolio%7D/static/js/3.c4369dc8.chunk.js.map",
+    "index.html": "/%7Breact-portfolio%7D/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/%7Breact-portfolio%7D/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.ddb63a1e.chunk.css.map": "/%7Breact-portfolio%7D/static/css/main.ddb63a1e.chunk.css.map",
+    "static/js/2.d784fcf2.chunk.js.LICENSE.txt": "/%7Breact-portfolio%7D/static/js/2.d784fcf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc14725.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.d784fcf2.chunk.js",
+    "static/css/main.ddb63a1e.chunk.css",
+    "static/js/main.1e60f09e.chunk.js"
+  ]
+}
