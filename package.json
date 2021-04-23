@@ -2,11 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "http://seaba55.github.io/react-portfolio/",
-=======
   "homepage": "http://seaba55.github.io/react-portfolio",
->>>>>>> ed3c12eb1de0d2efd5144959403274dfe0898d85
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
