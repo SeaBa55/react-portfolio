@@ -16,13 +16,13 @@ function App() {
         <NavBar/>
         <div className="page-content">
             <Switch>
-              <Route path="/" exact>
+              <Route path="/contact" exact>
                 <Portfolio />
               </Route>
               <Route path="/about">
                 <About />
               </Route>
-              <Route path="/contact">
+              <Route path="/">
                 <Contact />
               </Route>
             </Switch>
