@@ -13,7 +13,7 @@ function Portfolio() {
     return (
         <Container>
             <Col md={12}>
-                <Card className="mt-4">
+                <Card className="portfolio-card mt-4">
                     <Card.Body id="grad1">
                         <Card.Title>Portfolio</Card.Title>
                         {/* <!-- line divider between heading and image --> */}
