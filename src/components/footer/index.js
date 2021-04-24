@@ -34,7 +34,7 @@ function Footer() {
                         <i className="foot-icon-left fab fa-github fa-2x"></i>
                     </a>
                     {/* <!-- Site version info --> */}
-                    <span className="my-foot-text bangers-font-small">© 2021 v 4.4 - updated: 04/23</span>
+                    <span className="my-foot-text bangers-font-small">© 2021 v 4.5 - updated: 04/24</span>
                     {/* <!-- LinkedIn Profile Link --> */}
                     <a className="foot-link" href="https://www.linkedin.com/in/sebastian-arrazola-b92571b8/">
                         <i className="foot-icon-right fab fa-linkedin fa-2x"></i>
