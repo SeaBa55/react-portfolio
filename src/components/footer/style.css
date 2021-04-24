@@ -1,8 +1,8 @@
 /* Footer content spacing: set to match navbar positioning */
 .footer-container {
     width: 100%;
-    padding-left: 16px;
-    padding-right: 16px;
+    /* padding-left: 16px;
+    padding-right: 16px; */
 }
 
 /* Footer links default color - white*/

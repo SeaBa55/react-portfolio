@@ -24,7 +24,7 @@ function Footer() {
     return (
         <>
             <footer className="footer mt-auto bg-dark">
-                <div className="footer-container d-flex justify-content-between align-items-center">
+                <div className="footer-container d-flex justify-content-between align-items-center px-3">
                     {/* <!-- Button trigger modal --> */}
                     <div type="button" className="foot-link" onClick={() => {setShow(true)}}>
                         <i className="fas fa-file-pdf fa-2x"></i>
@@ -32,7 +32,7 @@ function Footer() {
                     {/* <!-- Git Hub Profile Link --> */}
                     <a className="foot-link" href="https://github.com/SeaBa55"><i className="fab fa-github fa-2x"></i></a>
                     {/* <!-- Site version info --> */}
-                    <span className="my-foot-text bangers-font-small">© 2021 v 4.3 - updated: 04/21</span>
+                    <span className="my-foot-text bangers-font-small">© 2021 v 4.4 - updated: 04/23</span>
                     {/* <!-- LinkedIn Profile Link --> */}
                     <a className="foot-link" href="https://www.linkedin.com/in/sebastian-arrazola-b92571b8/"><i className="fab fa-linkedin fa-2x"></i></a>
                     {/* <!-- Email info popover --> */}
