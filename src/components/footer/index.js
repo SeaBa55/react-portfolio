@@ -40,7 +40,7 @@ function Footer() {
                         <i className="foot-icon-right fab fa-linkedin fa-2x"></i>
                     </a>
                     {/* <!-- Email info popover --> */}
-                    <OverlayTrigger trigger="click" placement="top" overlay={popover}>
+                    <OverlayTrigger trigger="click" rootClose placement="right" placement="top" overlay={popover}>
                         <div className="foot-link">
                             <i className="foot-icon-right far fa-envelope fa-2x"></i>
                         </div>
