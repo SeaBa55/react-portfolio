@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import Navbar from 'react-bootstrap/Navbar';
-import NavLink from "react-router-dom/NavLink";
-import Nav from 'react-bootstrap/Nav';
+import { Nav, Navbar } from 'react-bootstrap';
+import { NavLink } from "react-router-dom";
 import './style.css';
 
 function NavBar() {
@@ -33,7 +32,7 @@ function NavBar() {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="ml-auto">
-                    <Nav.Link className="bangers-font-med">
+                    <Nav.Link as="div" className="bangers-font-med">
                         <NavLink
                             exact to="/about"
                             style= {{color: "inherit"}}
@@ -44,7 +43,7 @@ function NavBar() {
                             About
                         </NavLink>
                     </Nav.Link>
-                    <Nav.Link className="bangers-font-med">
+                    <Nav.Link as="div" className="bangers-font-med">
                         <NavLink
                             exact to="/"
                             style= {{color: "inherit"}}
@@ -55,7 +54,7 @@ function NavBar() {
                             Portfolio
                         </NavLink>
                     </Nav.Link>
-                    <Nav.Link className="bangers-font-med">
+                    <Nav.Link as="div" className="bangers-font-med">
                         <NavLink 
                             exact to="/contact"
                             style= {{color: "inherit"}}

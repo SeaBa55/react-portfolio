@@ -26,7 +26,7 @@ function Footer() {
             <footer className="footer mt-auto bg-dark">
                 <div className="footer-container d-flex justify-content-between align-items-center px-3">
                     {/* <!-- Button trigger modal --> */}
-                    <div type="button" className="foot-link" onClick={() => {setShow(true)}}>
+                    <div className="foot-link" onClick={() => {setShow(true)}}>
                         <i className="foot-icon-left fas fa-file-pdf fa-2x"></i>
                     </div>
                     {/* <!-- Git Hub Profile Link --> */}
@@ -34,14 +34,14 @@ function Footer() {
                         <i className="foot-icon-left fab fa-github fa-2x"></i>
                     </a>
                     {/* <!-- Site version info --> */}
-                    <span className="my-foot-text bangers-font-small">© 2021 v 4.5 - updated: 04/24</span>
+                    <span className="my-foot-text bangers-font-small">© 2021 v 4.6 - updated: 04/28</span>
                     {/* <!-- LinkedIn Profile Link --> */}
                     <a className="foot-link" href="https://www.linkedin.com/in/sebastian-arrazola-b92571b8/">
                         <i className="foot-icon-right fab fa-linkedin fa-2x"></i>
                     </a>
                     {/* <!-- Email info popover --> */}
                     <OverlayTrigger trigger="click" placement="top" overlay={popover}>
-                        <div type="button" className="foot-link">
+                        <div className="foot-link">
                             <i className="foot-icon-right far fa-envelope fa-2x"></i>
                         </div>
                     </OverlayTrigger>
