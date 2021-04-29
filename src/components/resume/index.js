@@ -18,11 +18,11 @@ function Resume(props) {
             <Modal.Body className="text-center" bsPrefix>
                 <img className="resume img-fluid" src="images/Sebastian_Arrazola_IT_v4.JPG" alt="Sebastian's Resume"/>
             </Modal.Body>
-            <Modal.Footer className="py-1">
-                <a className="btn btn-primary" href="images/Sebastian_Arrazola_IT_v2.pdf" download="Sebastian_Arrazola.pdf">
+            <Modal.Footer className="py-1" id="modal-footer">
+                <a className="btn modal-from-button" href="images/Sebastian_Arrazola_IT_v2.pdf" download="Sebastian_Arrazola.pdf">
                     <i className="fa fa-download"></i> Download
                 </a>
-                <Button onClick={props.onHide}>Close</Button>
+                <Button bsPrefix className="modal-from-button" onClick={props.onHide}>Close</Button>
             </Modal.Footer>
         </Modal>
     );

@@ -93,7 +93,7 @@ const Contact = () => {
                                 </Form.Label>
                                 <Form.Control as="textarea" rows={3} placeholder="Type message here" name="message"></Form.Control>
                             </Form.Group>
-                            <Button type="submit" value="Send" className="btn btn-primary">Submit</Button>
+                            <Button type="submit" value="Send" bsPrefix className="btn from-button">Submit</Button>
                         </Form>
                         }
                     </Card.Body>
