@@ -12,7 +12,7 @@ function About() {
                     <div className="banner d-flex justify-content-center image-cap">
                         <div className="image-cap-cut"> 
                             {/* <!-- Portfolio about profile image --> */}
-                            <Card.Img className="goop rounded-circle shadow-lg p-1" src="images/LinkedIn Photos/IMG_3121_square.jpg" alt="Picture of Sebastian Arrazola" data-holder-rendered="true" />
+                            <Card.Img className="rounded-circle shadow-lg p-1" src="images/LinkedIn_Photos/IMG_3121_square.jpg" alt="Picture of Sebastian Arrazola" data-holder-rendered="true"/>
                         </div>
                     </div>
                     {/* <!-- Card Title --> */}
