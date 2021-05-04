@@ -16,6 +16,11 @@
       "src": "logo_sa_2_512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "images/LinkedIn_Photos/IMG_3121_square.jpg",
+      "type": "image/jpg",
+      "sizes": "301x295"
     }
   ],
   "start_url": "/",
