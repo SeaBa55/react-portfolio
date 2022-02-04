@@ -22,7 +22,7 @@ function About() {
                     <Card.Body id="grad1">
                         <div className="about-me-text">
                             <p>
-                                I am a Full Stack Web Developer with 4+ years background in mechanical and electrical engineering and 3 years of team
+                                I am a Full Stack Web Developer with 5+ years background in mechanical and electrical engineering and 4 years of team
                                 leading experience in a fast-paced, test-oriented, automotive software development environment. 
                             </p>
                             <p>
@@ -35,12 +35,13 @@ function About() {
                                 Experience includes, but is not limited to:
                             </p>
                             <ul>
-                                <li>MySQL and NoSQL</li>
-                                <li>Version Control Systems (Git) &amp; Continious Deployment</li>
-                                <li>RESTful JSON APIs</li>
-                                <li>Javascript, Matlab, Python</li>
-                                <li>Debugging</li>
-                                <li>Documentation</li>
+                                <li>SQL &amp; NoSQL, including MySQL, PostgreSQL, MongoDB, Cassandra</li>
+                                <li>Version Control Systems (Git) &amp; Continious Deployment/Integration (Jenkins, TravisCI)</li>
+                                <li>RESTful JSON API Development</li>
+                                <li>C/C++, Javascript, Java EE, Matlab, Python</li>
+                                <li>Behavior/Test Driven Development (Cucumber, Jasmine, Jest, JUnit)</li>
+                                <li>Debugging experience with both client &amp; serverside code</li>
+                                <li>Documentation &amp; Ticketing (Confluence, Jira)</li>
                             </ul>
                         </div>
                     </Card.Body>

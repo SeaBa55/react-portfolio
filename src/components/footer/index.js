@@ -15,7 +15,7 @@ function Footer() {
                     Email: <a href="mailto:sebastianarrazola@gmail.com">sebastianarrazola@gmail.com</a>
                 </div>
                 <div>
-                    Phone: <a href="tel:+13139380626">+1 (313) 938-0626</a>
+                    Phone: <a href="tel:+12405053886">+1 (240) 505-3886</a>
                 </div>
             </Popover.Content>
         </Popover>
@@ -34,7 +34,7 @@ function Footer() {
                         <i className="foot-icon-left fab fa-github fa-2x"></i>
                     </a>
                     {/* <!-- Site version info --> */}
-                    <span className="my-foot-text bangers-font-small">© 2021 v 4.9 - updated: 05/04</span>
+                    <span className="my-foot-text bangers-font-small">© 2022 v 5.0 - updated: 02/04</span>
                     {/* <!-- LinkedIn Profile Link --> */}
                     <a className="foot-link" href="https://www.linkedin.com/in/sebastian-arrazola-b92571b8/">
                         <i className="foot-icon-right fab fa-linkedin fa-2x"></i>
