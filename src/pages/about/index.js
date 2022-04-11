@@ -37,11 +37,13 @@ function About() {
                             <ul>
                                 <li>SQL &amp; NoSQL, including MySQL, PostgreSQL, MongoDB, Cassandra</li>
                                 <li>Version Control Systems (Git) &amp; Continious Deployment/Integration (Jenkins, TravisCI)</li>
-                                <li>RESTful JSON API Development</li>
-                                <li>C/C++, Javascript, Java EE, Matlab, Python</li>
+                                <li>Containerization &amp; container orchestration (Docker, OpenShift, Kubernetes)</li>
+                                <li>RESTful API Development</li>
+                                <li>Languages: C/C++, English, Javascript, Java EE, Matlab, Python, Spanish</li>
                                 <li>Behavior/Test Driven Development (Cucumber, Jasmine, Jest, JUnit)</li>
                                 <li>Debugging experience with both client &amp; serverside code</li>
-                                <li>Documentation &amp; Ticketing (Confluence, Jira)</li>
+                                <li>Data aggregation/analysis &amp; Event monitoring (Matlab, Splunk)</li>
+                                <li>Documentation &amp; Ticketing (Javadoc, JSDoc, Swagger, Confluence, Jira)</li>
                             </ul>
                         </div>
                     </Card.Body>

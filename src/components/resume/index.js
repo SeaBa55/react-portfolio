@@ -16,10 +16,10 @@ function Resume(props) {
                 </Modal.Title>
             </Modal.Header>
             <Modal.Body className="text-center" bsPrefix>
-                <img className="resume img-fluid" src="images/Sebastian_Arrazola_IT_v4.JPG" alt="Sebastian's Resume"/>
+                <img className="resume img-fluid" src="images/Sebastian_Arrazola_IT_v4_2.JPG" alt="Sebastian's Resume"/>
             </Modal.Body>
             <Modal.Footer className="py-1" id="modal-footer">
-                <a className="btn modal-form-button" href="images/Sebastian_Arrazola_IT_v4.pdf" download="Sebastian_Arrazola.pdf">
+                <a className="btn modal-form-button" href="images/Sebastian_Arrazola_IT_v4_2.pdf" download="Sebastian_Arrazola.pdf">
                     <i className="fa fa-download"></i> Download
                 </a>
                 <Button bsPrefix className="modal-form-button" onClick={props.onHide}>Close</Button>
