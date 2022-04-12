@@ -39,7 +39,7 @@ function About() {
                                 <li>Version Control Systems (Git) &amp; Continious Deployment/Integration (Jenkins, TravisCI)</li>
                                 <li>Containerization &amp; container orchestration (Docker, OpenShift, Kubernetes)</li>
                                 <li>RESTful API Development</li>
-                                <li>Languages: C/C++, English, Javascript, Java EE, Matlab, Python, Spanish</li>
+                                <li>Languages: C/C++, Javascript, Java EE, Matlab, Python, Spanish</li>
                                 <li>Behavior/Test Driven Development (Cucumber, Jasmine, Jest, JUnit)</li>
                                 <li>Debugging experience with both client &amp; serverside code</li>
                                 <li>Data aggregation/analysis &amp; Event monitoring (Matlab, Splunk)</li>
